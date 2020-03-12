@@ -1007,6 +1007,9 @@ section {
 /*--------------------------------------------------------------
 # Service Details
 --------------------------------------------------------------*/
+.blue{
+  background-color:#f3f8fa !important;
+}
 .service-details {
   padding-bottom: 10px;
 }
